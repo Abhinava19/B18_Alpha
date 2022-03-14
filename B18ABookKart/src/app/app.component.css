@@ -1,0 +1,29 @@
+table {
+    width: 100%;
+    /* border-bottom: 2px solid black; */
+  }
+  td{
+    border-bottom: 2px solid black;
+  }
+
+  .blue{
+    color: blue !important
+  }
+
+  .meena{
+    color: purple; 
+  }
+
+  .swathi{
+    color: aqua;
+    border: 5px solid red;
+  }
+  
+  .center-data{
+    text-align: center;
+    padding-bottom: 15px;
+  }
+
+  .space{
+    padding-bottom: 20px;
+  }
